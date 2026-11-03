@@ -1,11 +1,11 @@
 # 🎵 Sonido Vivo
 
 <p align="center">
-  **Una experiencia musical para compartir, descubrir y disfrutar.**
+  Una experiencia musical para compartir, descubrir y disfrutar.
 </p>
 
 <p align="center">
-  Repositorio de la organización encargada del desarrollo de **Sonido Vivo**, un proyecto enfocado en la interacción social mediante salas musicales, reproducción compartida y experiencias colaborativas.
+  Repositorio de la organización encargada del desarrollo de Sonido Vivo, un proyecto enfocado en la interacción social mediante salas musicales, reproducción compartida y experiencias colaborativas.
 </p>
 
 ---
