@@ -1,83 +1,68 @@
-# 🎧 Sonido Vivo
+# 🎵 Sonido Vivo
 
 <p align="center">
-  <strong>TOP MUSIC · RADIO SOCIAL EN VIVO</strong>
-  <br/>
-  Una nueva forma de descubrir, compartir y disfrutar música en comunidad.
+  <strong>Una experiencia musical para compartir, descubrir y disfrutar.</strong>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  Repositorio de la organización encargada del desarrollo de <strong>Sonido Vivo</strong>, un proyecto enfocado en la interacción social mediante salas musicales, reproducción compartida y experiencias colaborativas.
 </p>
 
 ---
 
-## 🎵 About the project
+## 🚀 Sobre el proyecto
 
-**Sonido Vivo** es una plataforma de streaming musical con un enfoque social, diseñada para que los usuarios puedan escuchar música en tiempo real, compartir experiencias y descubrir nuevas canciones junto a otras personas.
+Sonido Vivo busca ofrecer una experiencia musical interactiva donde los usuarios puedan reunirse en salas, compartir música y participar en tiempo real.
 
-El proyecto busca transformar la experiencia musical individual en una experiencia colaborativa, donde la comunidad participa activamente en la selección y reproducción de música.
+Entre sus principales funcionalidades se encuentran:
 
-## ✨ Main features
+- 🎧 Salas públicas y privadas.
+- 🔐 Acceso mediante códigos de invitación.
+- 🎵 Reproducción musical compartida.
+- 👍 Votaciones de canciones.
+- 💬 Chat entre participantes.
+- 🤖 Recomendaciones y listas de reproducción.
+- 💎 Suscripciones y funcionalidades premium.
 
-### 🎧 Salas musicales
-- Creación de salas públicas y privadas.
-- Acceso mediante códigos de invitación.
-- Reproducción musical compartida en tiempo real.
+## 📂 Repositorios
 
-### 🗳️ Participación comunitaria
-- Sistema de votaciones para canciones.
-- Interacción entre usuarios.
-- Chat dentro de las salas.
+### 🎨 Frontend
 
-### 🤖 Experiencia inteligente
-- Recomendaciones musicales.
-- Generación de playlists.
-- Descubrimiento de nuevos contenidos.
+| Proyecto | Descripción |
+|---|---|
+| **Frontend sin React** | Versión de la interfaz desarrollada sin React. |
+| **Frontend con React** | Interfaz desarrollada utilizando React. |
 
-### 💎 Suscripciones
-- Funcionalidades premium.
-- Planes de suscripción.
-- Experiencias adicionales para los usuarios.
+🔗 [Frontend con React](https://github.com/MatiasBeas-SonidoVivo/ProyectoSonidoVivo-React)
 
-## 🏗️ Project architecture
+*El repositorio del frontend sin React se incorporará próximamente.*
 
-El proyecto se organiza en componentes independientes:
+### ⚙️ Backend
 
-| Componente | Descripción | Repositorio |
-|---|---|---|
-| 💻 Frontend | Interfaz de usuario y experiencia visual. | [Ver repositorio](https://github.com/MatiasBeas-SonidoVivo/ProyectoSonidoVivo-React) |
-| ⚙️ Backend | Servicios y gestión de productos. | [Ver repositorio](https://github.com/MatiasBeas-SonidoVivo/BackendProyectoSonidoVivo-Productos) |
+Actualmente, el backend se encuentra en desarrollo y contempla una arquitectura basada en microservicios.
 
-## 🎨 Visual identity
+| Microservicio | Descripción |
+|---|---|
+| **Productos** | Gestión de productos y sus operaciones. |
 
-La identidad visual utiliza una combinación de colores modernos y vibrantes:
+🔗 [Backend - Productos](https://github.com/MatiasBeas-SonidoVivo/BackendProyectoSonidoVivo-Productos)
 
-| Color | Código | Uso |
-|---|---|---|
-| Púrpura profundo | `#1E1233` | Fondo principal |
-| Violeta | `#6200EE` | Color principal |
-| Coral | `#FF4B72` | Acentos |
-| Cian | `#00E5FF` | Elementos interactivos |
-| Amarillo | `#FFC107` | Destacados |
+*Los demás microservicios se irán incorporando a medida que avance el desarrollo.*
 
-## 🎯 Project goals
+---
 
-- Crear una experiencia musical social e interactiva.
-- Fomentar la colaboración entre usuarios.
-- Facilitar el descubrimiento musical.
-- Incorporar herramientas de personalización y recomendación.
-- Desarrollar una plataforma modular y escalable.
+## 🎨 Identidad visual
+
+| Color | Código |
+|---|---|
+| Púrpura profundo | `#1E1233` |
+| Violeta | `#6200EE` |
+| Coral | `#FF4B72` |
+| Cian | `#00E5FF` |
+| Amarillo | `#FFC107` |
 
 ---
 
 <p align="center">
-  <strong>🎶 Sonido Vivo</strong>
-  <br/>
-  <sub>Music · Community · Connection</sub>
-  <br/><br/>
-  <a href="https://github.com/MatiasBeas-SonidoVivo">MatiasBeas-SonidoVivo</a>
+  <strong>🎶 Sonido Vivo — La música se disfruta mejor en compañía.</strong>
 </p>
