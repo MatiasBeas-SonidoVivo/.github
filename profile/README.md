@@ -1,3 +1,6 @@
+![Banner de mi proyecto](URL_DE_TU_IMAGEN)
+
+
 # 🎵 Sonido Vivo
 
 <p align="center">
