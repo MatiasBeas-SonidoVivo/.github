@@ -1,4 +1,4 @@
-![Banner de mi proyecto](URL_DE_TU_IMAGEN)
+![Banner de mi proyecto](https://github.com/MatiasBeas-SonidoVivo/imagen/blob/main/Captura%20de%20pantalla%202026-11-03%20115223.png?raw=true)
 
 
 # 🎵 Sonido Vivo
