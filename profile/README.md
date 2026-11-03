@@ -1,11 +1,11 @@
 # 🎵 Sonido Vivo
 
 <p align="center">
-  <strong>Una experiencia musical para compartir, descubrir y disfrutar.</strong>
+  **Una experiencia musical para compartir, descubrir y disfrutar.**
 </p>
 
 <p align="center">
-  Repositorio de la organización encargada del desarrollo de <strong>Sonido Vivo</strong>, un proyecto enfocado en la interacción social mediante salas musicales, reproducción compartida y experiencias colaborativas.
+  Repositorio de la organización encargada del desarrollo de **Sonido Vivo**, un proyecto enfocado en la interacción social mediante salas musicales, reproducción compartida y experiencias colaborativas.
 </p>
 
 ---
@@ -33,9 +33,8 @@ Entre sus principales funcionalidades se encuentran:
 | **Frontend sin React** | Versión de la interfaz desarrollada sin React. |
 | **Frontend con React** | Interfaz desarrollada utilizando React. |
 
-🔗 [Frontend con React](https://github.com/MatiasBeas-SonidoVivo/ProyectoSonidoVivo-React)
-
-*El repositorio del frontend sin React se incorporará próximamente.*
+- [Frontend sin React](https://github.com/MatiasBeas-SonidoVivo/Proyecto-Sonido-Vivo)
+- [Frontend con React](https://github.com/MatiasBeas-SonidoVivo/ProyectoSonidoVivo-React)
 
 ### ⚙️ Backend
 
@@ -45,7 +44,7 @@ Actualmente, el backend se encuentra en desarrollo y contempla una arquitectura 
 |---|---|
 | **Productos** | Gestión de productos y sus operaciones. |
 
-🔗 [Backend - Productos](https://github.com/MatiasBeas-SonidoVivo/BackendProyectoSonidoVivo-Productos)
+- [Backend - Productos](https://github.com/MatiasBeas-SonidoVivo/BackendProyectoSonidoVivo-Productos)
 
 *Los demás microservicios se irán incorporando a medida que avance el desarrollo.*
 
@@ -64,5 +63,5 @@ Actualmente, el backend se encuentra en desarrollo y contempla una arquitectura 
 ---
 
 <p align="center">
-  <strong>🎶 Sonido Vivo — La música se disfruta mejor en compañía.</strong>
+  **🎶 Sonido Vivo — La música se disfruta mejor en compañía.**
 </p>
